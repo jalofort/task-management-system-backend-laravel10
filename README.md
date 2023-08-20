@@ -24,7 +24,3 @@ It's here [https://github.com/jalofort/task-management-system-frontend-nuxt3](ht
     ```
 
 Enjoy.
-
-```
-
-```
