@@ -19,6 +19,12 @@ It's here [https://github.com/jalofort/task-management-system-frontend-nuxt3](ht
     php artisan migrate
     ```
 -   To start your development server, run:
-    `php artisan serve`
+    ```
+    php artisan serve
+    ```
 
 Enjoy.
+
+```
+
+```
